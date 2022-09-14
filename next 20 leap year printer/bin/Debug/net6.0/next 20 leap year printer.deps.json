@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "next 20 leap year printer/1.0.0": {
+        "runtime": {
+          "next 20 leap year printer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "next 20 leap year printer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

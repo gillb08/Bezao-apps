@@ -1,0 +1,15 @@
+C:\Users\windows subsidary\Desktop\next 20 leap year printer\bin\Debug\net6.0\next 20 leap year printer.exe
+C:\Users\windows subsidary\Desktop\next 20 leap year printer\bin\Debug\net6.0\next 20 leap year printer.deps.json
+C:\Users\windows subsidary\Desktop\next 20 leap year printer\bin\Debug\net6.0\next 20 leap year printer.runtimeconfig.json
+C:\Users\windows subsidary\Desktop\next 20 leap year printer\bin\Debug\net6.0\next 20 leap year printer.dll
+C:\Users\windows subsidary\Desktop\next 20 leap year printer\bin\Debug\net6.0\next 20 leap year printer.pdb
+C:\Users\windows subsidary\Desktop\next 20 leap year printer\obj\Debug\net6.0\next 20 leap year printer.csproj.AssemblyReference.cache
+C:\Users\windows subsidary\Desktop\next 20 leap year printer\obj\Debug\net6.0\next 20 leap year printer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows subsidary\Desktop\next 20 leap year printer\obj\Debug\net6.0\next 20 leap year printer.AssemblyInfoInputs.cache
+C:\Users\windows subsidary\Desktop\next 20 leap year printer\obj\Debug\net6.0\next 20 leap year printer.AssemblyInfo.cs
+C:\Users\windows subsidary\Desktop\next 20 leap year printer\obj\Debug\net6.0\next 20 leap year printer.csproj.CoreCompileInputs.cache
+C:\Users\windows subsidary\Desktop\next 20 leap year printer\obj\Debug\net6.0\next 20 leap year printer.dll
+C:\Users\windows subsidary\Desktop\next 20 leap year printer\obj\Debug\net6.0\refint\next 20 leap year printer.dll
+C:\Users\windows subsidary\Desktop\next 20 leap year printer\obj\Debug\net6.0\next 20 leap year printer.pdb
+C:\Users\windows subsidary\Desktop\next 20 leap year printer\obj\Debug\net6.0\next 20 leap year printer.genruntimeconfig.cache
+C:\Users\windows subsidary\Desktop\next 20 leap year printer\obj\Debug\net6.0\ref\next 20 leap year printer.dll
